@@ -39,6 +39,14 @@ function App() {
           author: "Thompson P.",
           date: "11 September 2024"
         },
+        {
+          image: "https://i.ytimg.com/vi/FKc3760Audc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBIA3xupa0ZORWHnNBbSupvm44Fpw",
+          category: "Cat",
+          title: "[Title]",
+          description: "[Short description]",
+          author: "Thompson P.",
+          date: "11 September 2024"
+        },
       ];
   return (
     <div>
